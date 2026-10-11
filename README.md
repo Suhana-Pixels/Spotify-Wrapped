@@ -1,8 +1,5 @@
 # 🎵 Bollywood Spotify Wrapped Data Compiler
 
-[![Java Version](https://shields.io)](#)
-[![Domain](https://shields.io)](#)
-[![GDG Selection](https://shields.io)](#)
 
 An analytical Java simulation engine that models a music streaming platform's year-end data pipeline. Instead of running generic sample data, this engine processes real metadata blocks of iconic **Bollywood tracks, playback metrics, and artist signatures** to compile personalized user-facing profile summaries.
 
